@@ -1,1 +1,2 @@
-# Usage: speller [dictionary] text
+# Speller
+A program that spell-checks a text file
